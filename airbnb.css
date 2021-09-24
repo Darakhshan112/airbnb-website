@@ -8,7 +8,7 @@ img {
     right: 0px;
 }   
 .image3{
-    background-image: url("adventure.jpg");
+    background-image: url("images/adventure.jpg");
     background-size: cover;
     width:30%;height: 80px;
     border-top-left-radius: 10px;
@@ -16,14 +16,14 @@ img {
 
 }
 .image1{
-    background-image: url("stay.jpg");
+    background-image: url("images/stay.jpg");
     background-size: cover;
     width: 30%; height:80px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
  .image2{
-     background-image: url("exp.jpg");
+     background-image: url("images/exp.jpg");
      background-size: cover;
      width:30%;height: 80px;
      border-top-left-radius: 10px;
